@@ -1,5 +1,5 @@
 {
-  "name": "abele-xlmmonitor",
+  "name": "xlmmonitor",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -14,6 +14,6 @@
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
-    "stellar-sdk": "^0.10.3"
+    "stellar-sdk": "^0.14.0"
   }
 }
